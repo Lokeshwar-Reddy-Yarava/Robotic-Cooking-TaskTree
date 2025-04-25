@@ -1,0 +1,469 @@
+[
+    {
+        "category": "Entrées",
+        "menu": [
+            {
+                "dish": "Fried Egg",
+                "ingredients": [
+                    "Egg",
+                    "Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean",
+                    "Canola",
+                    "Corn",
+                    "Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i))"
+                ]
+            },
+            {
+                "dish": "Chicken Shawarma",
+                "ingredients": [
+                    "Chicken Thigh",
+                    "Lemon Juice",
+                    "Canola Oil",
+                    "Coriander",
+                    "Salt",
+                    "Cumin",
+                    "Allspice",
+                    "Cinnamon",
+                    "Paprika",
+                    "Ginger",
+                    "Turmeric",
+                    "Black Pepper",
+                    "Cayenne Pepper"
+                ]
+            },
+            {
+                "dish": "Scrambled Eggs",
+                "ingredients": [
+                    "Egg Blend (WHOLE EGGS",
+                    "19.0% WATER. CONTAINS 2% OR LESS OF THE FOLLOWING: SALT",
+                    "XANTHAN GUM",
+                    "CITRIC ACID",
+                    "ANNATTO (COLOR)",
+                    "NATURAL BUTTER FLAVOR (SUNFLOWER OIL",
+                    "NATURAL FLAVORS",
+                    "MEDIUM CHAIN TRIGLYCERIDES).)"
+                ]
+            }
+            
+           
+        ]
+    },
+    {
+        "category": "Hot Sandwiches",
+        "menu": [
+            {
+                "dish": "Grilled Herb Chicken Sandwich",
+                "ingredients": [
+                    "Chicken Breast",
+                    "Roll",
+                    "Orange Juice",
+                    "Vegetable Oil Blend",
+                    "Garlic",
+                    "Black Pepper",
+                    "Dried Thyme Leaf",
+                    "Dried Basil"
+                ]
+            },
+            {
+                "dish": "Char-Grilled Turkey Burger",
+                "ingredients": [
+                    "Turkey Burger",
+                    "Roll"
+                ]
+            },
+            {
+                "dish": "Grilled Black Bean Burger",
+                "ingredients": [
+                    "Black Bean Veggie Burger",
+                    "Roll"
+                ]
+            },
+            {
+                "dish": "Hamburger",
+                "ingredients": [
+                    "Beef Patty",
+                    "Roll"
+                ]
+            },
+            {
+                "dish": "Crispy Chicken Sandwich",
+                "ingredients": [
+                    "Chicken Breast Patty",
+                    "Roll"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Sides",
+        "menu": [
+            {
+                "dish": "Cheese Grits",
+                "ingredients": [
+                    "Water",
+                    "Cheddar Cheese",
+                    "Grits",
+                    "Green Onion",
+                    "Salt",
+                    "Tabasco Hot Sauce",
+                    "Black Pepper",
+                    "Garlic Powder"
+                ]
+            },
+            {
+                "dish": "Grilled Zucchini Squash",
+                "ingredients": [
+                    "Squash Zucchini",
+                    "Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean",
+                    "Canola",
+                    "Corn",
+                    "Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i))",
+                    "Montreal Steak Seasoning (COARSE SALT",
+                    "SPICES (INCLUDING BLACK PEPPER AND RED PEPPER)",
+                    "GARLIC",
+                    "ONION",
+                    "SUNFLOWER OIL",
+                    "NATURAL FLAVOR AND EXTRACTIVES OF PAPRIKA.)",
+                    "Salt",
+                    "Black Pepper"
+                ]
+            },
+            {
+                "dish": "Bacon",
+                "ingredients": [
+                    "Bacon (Pork; Cured With Water",
+                    "Salt",
+                    "Sugar",
+                    "Sodium Phosphates",
+                    "Sodium Erythorbate",
+                    "Sodium Nitrite.)"
+                ]
+            },
+            {
+                "dish": "Turkey Sausage Patty",
+                "ingredients": [
+                    "Turkey Sausage (Turkey",
+                    "Water",
+                    "Contains 2% or Less of Salt",
+                    "Spices",
+                    "Sugar",
+                    "BHA",
+                    "BHT",
+                    "Citric Acid.)"
+                ]
+            },
+            {
+                "dish": "Turkey Sausage Patty",
+                "ingredients": [
+                    "Turkey Sausage (Turkey",
+                    "Water",
+                    "Contains 2% or Less of Salt",
+                    "Spices",
+                    "Sugar",
+                    "BHA",
+                    "BHT",
+                    "Citric Acid.)"
+                ]
+            },
+            {
+                "dish": "Crispy Shoestring French Fries",
+                "ingredients": [
+                    "French Fries (Potatoes",
+                    "Vegetable Oil (Contains One Or More Of The Following Oils: Canola",
+                    "Soybean",
+                    "Cottonseed",
+                    "Sunflower",
+                    "Corn)",
+                    "Potato Starch - Modified. Contains 2% or less of Dextrin",
+                    "Dextrose",
+                    "Leavening (Sodium Acid Pyrophosphate",
+                    "Sodium Bicarbonate)",
+                    "Pea Fiber",
+                    "Pea Protein",
+                    "Rice Flour",
+                    "Salt",
+                    "Sodium Acid Pyrophosphate Added To Maintain Color",
+                    "Xanthan Gum)"
+                ]
+            },
+            {
+                "dish": "Seasoned Home Fries",
+                "ingredients": [
+                    "Potatoes",
+                    "Canola Oil",
+                    "Salt",
+                    "Garlic Powder",
+                    "Black Pepper"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Soups",
+        "menu": [
+            {
+                "dish": "Sweet Tomato Soup (6  fl oz)",
+                "ingredients": [
+                    "Water",
+                    "Tomatoes",
+                    "Sweet Potato",
+                    "Onion",
+                    "Tomato Paste",
+                    "Vegetable Base (SAUTEED VEGETABLE PUREE MIX (CARROTS",
+                    "ONIONS",
+                    "CELERY",
+                    "CORN OIL)",
+                    "CORNSTARCH",
+                    "MALTODEXTRIN",
+                    "CORN OIL",
+                    "HYDROLYZED CORN PROTEIN",
+                    "AUTOLYZED YEAST EXTRACT",
+                    "TOMATO POWDER",
+                    "WATER",
+                    "ONION POWDER",
+                    "2% OR LESS OF DISODIUM INOSINATE",
+                    "DISODIUM GUANYLATE",
+                    "GARLIC POWDER",
+                    "SALT",
+                    "EXTRACTIVES OF PAPRIKA",
+                    "NATURAL FLAVORS",
+                    "MODIFIED CORNSTARCH.)",
+                    "Granulated Sugar",
+                    "Vegetable Oil Blend (Vegetable Oil (May contain one or more of the following: Soybean",
+                    "Canola",
+                    "Corn",
+                    "Sunflower Oil); Olive Oil; Colorant: Beta-Carotene E160a(i))",
+                    "Garlic",
+                    "Black Pepper",
+                    "Dried Bay Leaf"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Breads",
+        "menu": [
+           
+            {
+                "dish": "Cinnamon Whole Wheat French Toast",
+                "ingredients": [
+                    "Whole Wheat Bread",
+                    "Liquid Egg Whites",
+                    "2% Milk",
+                    "Granulated Sugar",
+                    "Cinnamon"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Salads",
+        "menu": [
+            {
+                "dish": "Sliced Strawberries",
+                "ingredients": [
+                    "Strawberries"
+                ]
+            },
+            {
+                "dish": "Green Leaf Lettuce (1  cup)",
+                "ingredients": [
+                    "Lettuce"
+                ]
+            },
+            {
+                "dish": "Sliced Red Onions ( 1/2 cup)",
+                "ingredients": [
+                    "Onion"
+                ]
+            },
+            {
+                "dish": "Sliced Tomatoes (1  ozw)",
+                "ingredients": [
+                    "Tomato "
+                ]
+            },
+            {
+                "dish": "Roasted Beet & Orange Salad",
+                "ingredients": [
+                    "Red Beets",
+                    "Oranges",
+                    "Arugula",
+                    "Canola Oil",
+                    "Orange Juice",
+                    "Lemon Juice",
+                    "Parsley",
+                    "Orange Zest",
+                    "Lemon Zest",
+                    "Thyme",
+                    "Salt",
+                    "Black Pepper",
+                    "Salt",
+                    "Black Pepper"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Grains",
+        "menu": [
+            {
+                "dish": "Croissant (1  each)",
+                "ingredients": [
+                    "Croissant"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Condiments",
+        "menu": [
+            {
+                "dish": "Dill Pickle Slices ( 1/4 cup)",
+                "ingredients": [
+                    "Pickle Slices (FRESH   CUCUMBERS",
+                    "WATER",
+                    "SALT",
+                    "DISTILLED VINEGAR",
+                    "CONTAINS LESS THAN 2% OF DRIED   GARLIC",
+                    "CALCIUM CHLORIDE",
+                    "SPICE",
+                    "SODIUM BENZOATE (TO PRESERVE FLAVOR)",
+                    "  MUSTARD SEED",
+                    "DRIED RED PEPPER",
+                    "NATURAL FLAVOR",
+                    "POLYSORBATE 80",
+                    "OLEORESIN   TUMERIC.)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Desserts",
+        "menu": [
+            {
+                "dish": "Chocolate Chip Cookie",
+                "ingredients": [
+                    "Chocolate Chip Cookie (ENRICHED BLEACHED FLOUR (BLEACHED WHEAT FLOUR",
+                    "MALTED BARLEY FLOUR",
+                    "NIACIN",
+                    "IRON",
+                    "THIAMINE MONONITRATE",
+                    "RIBOFLAVIN",
+                    "FOLIC ACID)",
+                    "SUGAR",
+                    "PALM OIL",
+                    "SEMI-SWEET CHOCOLATE CHIPS (SUGAR",
+                    "UNSWEETENED CHOCOLATE",
+                    "COCOA BUTTER",
+                    "DEXTROSE",
+                    "SOY LECITHIN",
+                    "VANILLA EXTRACT)",
+                    "CHOCOLATE FLAVORED CONFECTIONARY CHIPS (SUGAR",
+                    "PALM KERNEL AND/OR PALM OIL",
+                    "COCOA [PROCESSED WITH ALKALI]",
+                    "DEXTROSE",
+                    "SOY LECITHIN",
+                    "POLYSORBATE 60",
+                    "SORBITAN MONOSTEARATE",
+                    "NATURAL FLAVOR",
+                    "SALT",
+                    "VANILLA EXTRACT)",
+                    "MARGARINE (PALM OIL",
+                    "WATER",
+                    "SOYBEAN OIL",
+                    "SALT",
+                    "MONO- AND DIGLYCERIDES",
+                    "NATURAL FLAVORS [CONTAINS MILK]",
+                    "CITRIC ACID",
+                    "VITAMIN A PALMITATE ADDED",
+                    "BETA CAROTENE [COLOR])",
+                    "WATER",
+                    "EGGS",
+                    "DEXTROSE",
+                    "CONTAINS 2% OR LESS OF: MOLASSES",
+                    "WHEAT STARCH",
+                    "BAKING SODA",
+                    "SALT",
+                    "NATURAL AND ARTIFICIAL FLAVOR.)"
+                ]
+            },
+            {
+                "dish": "Sugar Cookie",
+                "ingredients": [
+                    "Sugar Cookie (ENRICHED BLEACHED FLOUR (BLEACHED WHEAT FLOUR",
+                    "MALTED BARLEY FLOUR",
+                    "NIACIN",
+                    "IRON",
+                    "THIAMINE MONONITRATE",
+                    "RIBOFLAVIN",
+                    "FOLIC ACID)",
+                    "SUGAR",
+                    "MARGARINE (PALM OIL",
+                    "WATER",
+                    "SOYBEAN OIL",
+                    "CONTAINS 2% OR LESS OF: SALT",
+                    "MONO- AND DIGLYCERIDES",
+                    "NATURAL FLAVORS [CONTAINS MILK]",
+                    "CITRIC ACID",
+                    "VITAMIN A PALMITATE ADDED",
+                    "BETA CAROTENE [COLOR])",
+                    "EGGS",
+                    "CONTAINS 2% OR LESS OF: INVERT SUGAR",
+                    "SALT",
+                    "BAKING SODA",
+                    "DEGATTED SOY FLOUR.)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Protein",
+        "menu": [
+            {
+                "dish": "American Cheese ( 1/2 ozw)",
+                "ingredients": [
+                    "American Cheese (American Cheese (Milk",
+                    "Cheese Culture",
+                    "Salt",
+                    "Enzymes)",
+                    "Water",
+                    "Cream",
+                    "Potassium Citrate",
+                    "Sodium Citrate",
+                    "Sorbic Acid As A Preservative",
+                    "Color Added",
+                    "Sunflower Lecithin (Release Agent).)"
+                ]
+            },
+            {
+                "dish": "Cheddar Cheese ( 1/2 ozw)",
+                "ingredients": [
+                    "Cheddar Cheese (Pasteurized Milk",
+                    "Cheese Culture",
+                    "Salt",
+                    "Enzymes",
+                    "Annatto (Vegetable Color).)"
+                ]
+            },
+            {
+                "dish": "Cheddar Cheese ( 1/2 ozw)",
+                "ingredients": [
+                    "Cheddar Cheese (Pasteurized Milk",
+                    "Cheese Culture",
+                    "Salt",
+                    "Enzymes",
+                    "Annatto (Vegetable Color).)"
+                ]
+            },
+            {
+                "dish": "Swiss Cheese",
+                "ingredients": [
+                    "Swiss Cheese (Pasteurized Part-Skim Milk",
+                    "Cheese Culture",
+                    "Salt",
+                    "Enzymes.)"
+                ]
+            }
+        ]
+    }
+]
