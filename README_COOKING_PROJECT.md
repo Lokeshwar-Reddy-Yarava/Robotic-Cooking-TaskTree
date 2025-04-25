@@ -108,14 +108,6 @@ The task trees for each dish will be generated in separate JSON files.
 
 ---
 
-## 🧠 Future Work
-
-- Incorporate multimodal inputs (images/videos).
-- Extend to domains beyond cooking (e.g., healthcare, manufacturing).
-- Explore prompt optimization and LLM fine-tuning for domain-specific tasks.
-
----
-
 **Project Completed for**:  
 Advanced Topics in Deep Learning - Spring 2025  
 **Instructor**: Prof. Yu Sun  
